@@ -81,7 +81,7 @@ public class SavouryTreatsTest
     @Test
     public void testSavouryTreatsTunaAndMayo() 
     {
-        System.out.println("STest Savoury Treats Tuna And Mayo");
+        System.out.println("Test Savoury Treats Tuna And Mayo");
         SavouryTreats savt = new SavouryTreats(4,20,4,30,50);
         double actual = savt.calculateCost();
         double expected = 50.0;
