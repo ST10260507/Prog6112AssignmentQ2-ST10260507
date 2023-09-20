@@ -22,7 +22,6 @@ public class AssignmentOneProg6112Q2
        them the correct total cost for each customer
     -- Additionally, they need the program so that they can see the amount of 
        money they have made at the end of the day
-    -- I have used JOptionPane to make it more user friendly
   */ 
     
     public static void main(String[] args) 
